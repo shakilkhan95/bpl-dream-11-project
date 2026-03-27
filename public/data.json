@@ -8,7 +8,7 @@
       "rating": 95,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Right-arm medium",
-      "price": 1200000,
+      "price": 4500,
       "image": "https://i.pravatar.cc/150?img=1"
     },
     {
@@ -19,7 +19,7 @@
       "rating": 92,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Right-arm offbreak",
-      "price": 1000000,
+      "price": 4200,
       "image": "https://i.pravatar.cc/150?img=2"
     },
     {
@@ -30,7 +30,7 @@
       "rating": 90,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Right-arm offbreak",
-      "price": 950000,
+      "price": 4000,
       "image": "https://i.pravatar.cc/150?img=3"
     },
     {
@@ -41,7 +41,7 @@
       "rating": 91,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Right-arm offbreak",
-      "price": 970000,
+      "price": 4100,
       "image": "https://i.pravatar.cc/150?img=4"
     },
     {
@@ -52,7 +52,7 @@
       "rating": 93,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Right-arm legbreak",
-      "price": 1100000,
+      "price": 4300,
       "image": "https://i.pravatar.cc/150?img=5"
     },
     {
@@ -63,7 +63,7 @@
       "rating": 89,
       "battingStyle": "Left-hand bat",
       "bowlingStyle": "Right-arm fast-medium",
-      "price": 1050000,
+      "price": 4000,
       "image": "https://i.pravatar.cc/150?img=6"
     },
     {
@@ -74,7 +74,7 @@
       "rating": 88,
       "battingStyle": "Left-hand bat",
       "bowlingStyle": "Slow left-arm orthodox",
-      "price": 900000,
+      "price": 3900,
       "image": "https://i.pravatar.cc/150?img=7"
     },
     {
@@ -85,7 +85,7 @@
       "rating": 87,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Right-arm fast-medium",
-      "price": 920000,
+      "price": 3800,
       "image": "https://i.pravatar.cc/150?img=8"
     },
     {
@@ -96,7 +96,7 @@
       "rating": 91,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Right-arm legbreak googly",
-      "price": 980000,
+      "price": 4100,
       "image": "https://i.pravatar.cc/150?img=9"
     },
     {
@@ -107,7 +107,7 @@
       "rating": 89,
       "battingStyle": "Left-hand bat",
       "bowlingStyle": "Left-arm fast",
-      "price": 970000,
+      "price": 4000,
       "image": "https://i.pravatar.cc/150?img=10"
     },
     {
@@ -118,7 +118,7 @@
       "rating": 88,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Left-arm fast-medium",
-      "price": 940000,
+      "price": 3900,
       "image": "https://i.pravatar.cc/150?img=11"
     },
     {
@@ -129,7 +129,7 @@
       "rating": 92,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Right-arm fast",
-      "price": 1150000,
+      "price": 4400,
       "image": "https://i.pravatar.cc/150?img=12"
     },
     {
@@ -140,7 +140,7 @@
       "rating": 90,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "N/A",
-      "price": 980000,
+      "price": 4100,
       "image": "https://i.pravatar.cc/150?img=13"
     },
     {
@@ -151,7 +151,7 @@
       "rating": 89,
       "battingStyle": "Left-hand bat",
       "bowlingStyle": "N/A",
-      "price": 930000,
+      "price": 4000,
       "image": "https://i.pravatar.cc/150?img=14"
     },
     {
@@ -162,7 +162,7 @@
       "rating": 87,
       "battingStyle": "Right-hand bat",
       "bowlingStyle": "Right-arm medium",
-      "price": 900000,
+      "price": 3800,
       "image": "https://i.pravatar.cc/150?img=15"
     }
   ]

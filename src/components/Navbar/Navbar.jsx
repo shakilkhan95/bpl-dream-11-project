@@ -1,8 +1,8 @@
-import React from "react";
 import logoImg from '../../assets/logo.png';
 import currencyImg from '../../assets/Currency.png';
 
-const Navbar = () => {
+const Navbar = ({credit}) => {
+
   return (
     <header className="px-2.5 lg:px-10">
       <nav className="navbar justify-between bg-base-100 shadow-sm">
@@ -64,7 +64,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="btn gap-2.5 items-center">
-          <a>0 Coins</a>
+          <a>{credit} Coins</a>
           <img src={currencyImg} alt="" />
         </div>
       </nav>
