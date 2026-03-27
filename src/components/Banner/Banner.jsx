@@ -5,19 +5,27 @@ import heroImg from '../../assets/banner-main.png';
 const Banner = () => {
   return (
     <section
-      className={`mx-2.5 lg:mx-10 py-5 lg:py-10 bg-black min-h-[60vh] mt-10 rounded-xl bg-no-repeat`}
+      className="mx-2.5 lg:mx-10 py-5 lg:py-10 bg-black mt-10 rounded-xl bg-no-repeat bg-cover"
       style={{ backgroundImage: `url(${bannerBg})` }}
     >
-      <div>
-        <img src={heroImg} alt="Hero image" />
-      </div>
+      <div className="flex flex-col justify-center items-center gap-5">
+        <div>
+          <img src={heroImg} alt="Hero image" />
+        </div>
 
-      <div>
-        <h1>Assemble Your Ultimate Dream 11 Cricket Team</h1>
-        <p>Beyond Boundaries Beyond Limits</p>
-      </div>
+        <div className="space-y-2 text-center">
+          <h1 className="text-2xl lg:text-4xl text-white font-bold">
+            Assemble Your Ultimate Dream 11 Cricket Team
+          </h1>
+          <p className="text-white/70 font-medium">
+            Beyond Boundaries Beyond Limits
+          </p>
+        </div>
 
-      <button>Claim Free Credit</button>
+        <button className="text-black font-semibold px-3 py-2 rounded-xl bg-[#E7FE29] outline-3 outline-white cursor-pointer hover:bg-amber-400 transition duration-300">
+          Claim Free Credit
+        </button>
+      </div>
     </section>
   );
 }
